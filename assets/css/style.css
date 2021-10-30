@@ -10,29 +10,28 @@ section{
     padding: 40px 4%;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: rgb(20, 20, 20);
+    font-size: 20px;
 
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-h1{
 
-}
 section:nth-of-type(1){
-    background-image: url(../images/imagem1.jpg);
+    background-image: url(../images/Depa_Billaba_treinando_Caleb_Dume.png);
 
 }
 section:nth-of-type(3){
-    background-image: url(../images/imagem2.jpg);
-
+    background-image: url(../images/Anakin_Skywalker_RotS.png);
+    background-position: top;/*Vai priorizar a parte de cima da imagem*/
 }
 section:nth-of-type(5){
-    background-image: url(../images/imagem3.jpg);
-
+    background-image: url(../images/395ed3fb-d7f2-4136-aba9-a8444e4e5aab.png);
+    
 }
 section:nth-of-type(7){
-    background-image: url(../images/imagem4.jpg);
+    background-image: url(../images/Ahsoka-Tano-Feature.webp);
 
 }
 
